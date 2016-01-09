@@ -1,12 +1,12 @@
 %define		pkg	columnify
 Summary:	Render data in text columns, supports in-column text-wrap
 Name:		nodejs-%{pkg}
-Version:	0.1.2
+Version:	1.1.0
 Release:	1
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
-# Source0-md5:	529b3dde5144dfbd24fad26fdd27468d
+# Source0-md5:	d94392009e452f597b1d66355e60291b
 URL:		https://github.com/timoxley/columnify
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
