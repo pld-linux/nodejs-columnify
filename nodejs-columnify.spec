@@ -2,7 +2,7 @@
 Summary:	Render data in text columns, supports in-column text-wrap
 Name:		nodejs-%{pkg}
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
